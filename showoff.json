@@ -1,0 +1,10 @@
+{"name":"Introduction to Erlang", "sections":[
+  {"section": "intro"},
+	{"section": "outline"},
+	{"section": "cametoerlang"},
+	{"section": "functional"},
+	{"section": "whatiserlang"},
+	{"section": "rubyerlang"},
+	{"section": "erlangcommunity"},
+	{"section": "goodbye"}
+]}
