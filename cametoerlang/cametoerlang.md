@@ -1,4 +1,4 @@
-!SLIDE bullets center
+!SLIDE bullets center smaller
 
 # How I was introduced to Erlang
 * [![erlang book](erlangbook.png)](http://pragprog.com/titles/jaerlang/programming-erlang)
