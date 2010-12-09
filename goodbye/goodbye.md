@@ -9,8 +9,9 @@
 * [http://introduction-to-erlang.heroku.com/](http://introduction-to-erlang.heroku.com/)
 * [![wildfire](../intro/logo-300x250wildfire.png)](http://wildfireapp.com)
 * [We are hiring developers!!](http://www.wildfireapp.com/buzz/jobs)
-
-
+* 
+* 
+* 
 
 
 
