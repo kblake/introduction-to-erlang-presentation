@@ -1,11 +1,3 @@
-!SLIDE incremental bullets
-
-# Learning Erlang through Ruby
-
-* Look at Ruby code and then try to compare to a similar piece of code in Erlang. 
-* Not all code can be a perfect match or fit. 
-* This will allow you to use existing knowledge to better learn Erlang.
-
 !SLIDE incremental commandline
 
 #Shell
