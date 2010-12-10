@@ -12,7 +12,7 @@
 * [Facebook: uses Erlang for chat](http://www.facebook.com/note.php?note_id=14218138919)
 * [Facebook: presentation on using Erlang](http://www.erlang-factory.com/upload/presentations/31/EugeneLetuchy-ErlangatFacebook.pdf)
 * [Github](http://www.infoq.com/interviews/erlang-and-github)
-* [SyncPad: Erland and Node observations](http://blog.mysyncpad.com/post/2073441622/node-js-vs-erlang-syncpads-experience)
+* [SyncPad: Erlang and Node observations](http://blog.mysyncpad.com/post/2073441622/node-js-vs-erlang-syncpads-experience)
 
 
 !SLIDE incremental bullets
