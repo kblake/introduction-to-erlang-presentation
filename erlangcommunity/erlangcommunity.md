@@ -7,17 +7,6 @@
 * Erlang Camp
 * Erlang Factory
 
-!SLIDE bullets incremental smaller
-
-# Erlang on Github
-
-* rklophaus/Nitrogen Web Framework for Erlang
-* tarcieri/Reia is a Ruby/Python-like language for BEAM, the Erlang VM
-* mojombo/Ernie is an Erlang/Ruby BERT-RPC Server.
-* mojombo/Erlectricity exposes Ruby to Erlang and vice versa.
-* mojombo/BERT (Binary ERlang Term) serialization library for Ruby.
-* evanmiller/The MVC for Erlang hackers in a hurry
-
 
 !SLIDE center
 
